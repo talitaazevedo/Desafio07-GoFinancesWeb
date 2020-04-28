@@ -33,7 +33,7 @@ export const DropContainer = styled.div.attrs({
 `;
 
 const messageColors = {
-  default: '#5636D3',
+  default: '#4C0370',
   error: '#e83f5b',
   success: '#12a454',
 };

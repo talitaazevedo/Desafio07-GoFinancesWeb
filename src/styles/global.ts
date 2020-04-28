@@ -1,5 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 
+// #F0F2F5  #0E0115
 export default createGlobalStyle`
 
   * {
@@ -10,7 +11,10 @@ export default createGlobalStyle`
   }
 
   body {
-    background: #F0F2F5 ;
+
+
+    background: #F0F2F5;
+
     -webkit-font-smoothing: antialiased
   }
 
